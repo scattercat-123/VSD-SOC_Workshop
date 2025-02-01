@@ -52,4 +52,9 @@ once you are done with that copy the skt130A.tech file from magic
 Once you are done copying the file type the magic command 
 <img src="viewed_cell.png">
 
+## Getting started with DRC (design rules check)
+
+Press this button in the magic window:
+<img src="Drc.png">
+
 
