@@ -10,7 +10,7 @@ Once you are done, navigate to openlane_wokring_dir in the Terminal and type doc
 *To merge all the picorv files type prep -design picorv32a* **Check Above**
 
 ### More info:
-<img src="openlane_flow">
+<img src="openlane_flow.png">
 
 ## Check if you have successfully done all the starting steps!
 <div id="go">-_-</div>
